@@ -1,0 +1,53 @@
+
+.message-holder{
+    font-size: 9em;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: medium;
+    
+}
+.message{
+    font-size: 60px;
+    text-align: center;
+    
+}
+.Packages-section{
+    background-color: #f7f7f749;
+    
+}
+.brand-sec{
+    background-color: #00092c;
+    padding: 6em 0;
+}
+.brand-icon{
+    color: rgb(241, 69, 7);
+    font-size: 7em;
+    
+}
+.brand-headline{
+    color: #eeeeee;
+    margin-bottom: 3em;
+    font-size: 26px;
+    text-align: center;
+}
+footer{
+    background-color: #00092c;
+}
+.brand-i{
+    color: rgb(241, 69, 7);
+
+}
+.links{
+    text-decoration: none;
+    justify-content: space-between;
+    color: white;
+
+}
+
+@media (min-width: 320px) and (max-width:480px){
+    .message-holder{
+        font-size: small;
+        padding: 4em;
+    }
+    
+}
